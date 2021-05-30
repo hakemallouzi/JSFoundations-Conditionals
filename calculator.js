@@ -13,14 +13,14 @@ if(operation === '+'){
 else if(operation === '-'){
      console.log(num1 - num2)
 }
-else if(operation === '-'){
+else if(operation === '*'){
      console.log(num1 * num2)
 }
-else if(operation === '-'){
+else if(operation === '/'){
      console.log(num1 / num2)
 }
 else {
-console.log("innvalid")
+console.log("invalid")
 }
 
 
